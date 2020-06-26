@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Try-Cath\obj\Debug\netcoreapp3.1\Try-Cath.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Try-Cath\obj\Debug\netcoreapp3.1\Try-Cath.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Try-Cath\obj\Debug\netcoreapp3.1\Try-Cath.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Try-Cath\obj\Debug\netcoreapp3.1\Try-Cath.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Try-Cath\bin\Debug\netcoreapp3.1\Try-Cath.exe
+C:\Users\gabriel\Documents\GitHub\Try-Cath\bin\Debug\netcoreapp3.1\Try-Cath.deps.json
+C:\Users\gabriel\Documents\GitHub\Try-Cath\bin\Debug\netcoreapp3.1\Try-Cath.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Try-Cath\bin\Debug\netcoreapp3.1\Try-Cath.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Try-Cath\bin\Debug\netcoreapp3.1\Try-Cath.dll
+C:\Users\gabriel\Documents\GitHub\Try-Cath\bin\Debug\netcoreapp3.1\Try-Cath.pdb
+C:\Users\gabriel\Documents\GitHub\Try-Cath\obj\Debug\netcoreapp3.1\Try-Cath.dll
+C:\Users\gabriel\Documents\GitHub\Try-Cath\obj\Debug\netcoreapp3.1\Try-Cath.pdb
+C:\Users\gabriel\Documents\GitHub\Try-Cath\obj\Debug\netcoreapp3.1\Try-Cath.genruntimeconfig.cache

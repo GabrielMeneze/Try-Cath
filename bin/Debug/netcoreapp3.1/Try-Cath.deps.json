@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Try-Cath/1.0.0": {
+        "runtime": {
+          "Try-Cath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try-Cath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
